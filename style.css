@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #99582a;
+    font-family: "Concert One", sans-serif;
+}
+
+.perfil {
+    border-radius: 50%;
+    width: 1000px;
+}
+
+#bienvenida {
+    /* position: absolute; */
+    bottom: 0;
+    background: linear-gradient(#ffc681 50%, #99582a 100%);
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 300;
+}
+
+#nombre {
+    font-size: 50px;
+    /* font-family: cursive; */
+    /* CLASE 57 */
+    font-family: 'Bungee Spice', sans-serif;
+    /* CLASE 58 */
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+
+#bio {
+    /* font-family: monospace; */
+    /* CLASE 57 */
+    font-family: 'La Belle Aurore', cursive;
+    /* CLASE 58 */
+    padding: 30px;
+    font-size: 18px;
+}
+
+.m {
+    list-style: none;
+    position: fixed;
+    background-color: rgb(255, 234, 213);
+    width: 100%;
+    margin-top: 0%;
+    font-family: "Caveat", cursive;
+}
+
+.tl {
+    display: inline;
+    padding: 5px 35px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.tl a:hover {
+    font-size: 30px;
+    color: brown !important;
+}
+
+a {
+text-decoration: none;
+color: black;
+}
+
+.linea {
+    height: 6px;
+    background-color: rgb(39, 37, 37);
+    width: 70px;
+    margin: 8px auto;
+    text-align: center;
+}
+
+p {
+    width: 80%;
+    margin: 3px auto;
+}
+
+#Contactos a{
+    font-size: 100px;
+}
